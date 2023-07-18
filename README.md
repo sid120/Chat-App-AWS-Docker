@@ -1,5 +1,5 @@
 # SCE-Demonstration
-TechStack:- 
-React js 
-Docker
-AWS EC2 
+## TechStack:- 
+* React js 
+* Docker
+* AWS EC2 
